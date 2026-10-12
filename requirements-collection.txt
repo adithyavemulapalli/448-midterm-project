@@ -1,0 +1,4 @@
+# Optional: only needed to collect new API responses, not to train on saved data.
+google-genai
+openai
+requests
