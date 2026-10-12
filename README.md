@@ -4,8 +4,6 @@ Classifying Llama, Gemini, and Qwen responses with a convolutional neural networ
 
 **Team:** Adithya Vemulapali, Shreya Garg, Ani Ganesan.
 
-This repository contains the completed experiments and their supporting code and data. The report is intentionally omitted and will be added separately. No team-leader designation is made here.
-
 ## Results
 
 Primary seed 42, 150 test responses (50 prompt groups), equal family representation:
